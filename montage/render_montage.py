@@ -157,7 +157,9 @@ def render_shots(shots):
 
 def render_final(audio,duration):
     vf=f"[0:v][1:v]overlay=0:0:format=auto,ass=filename='{ROOT/'lyrics_video.ass'}',fade=t=in:st=0:d=0.5,fade=t=out:st={duration-1.2}:d=1.2,format=yuv420p[v]"
-    cmd=['ffmpeg','-y','-hide_banner','-loglevel','warning','-stats','-filter_complex_threads','1','-i',str(ROOT/'montage_background.mp4'),'-loop','1','-i',str(ROOT/'lyric_gradient.png'),'-i',str(audio),'-filter_complex',vf,'-map','[v]','-map','2:a:0','-t',str(duration),'-r','30','-c:v','libx264','-preset','fast','-crf','22','-threads','3','-pix_fmt','yuv420p','-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart','-color_range','tv','-color_primaries','bt709','-color_trc','bt709','-colorspace','bt709','-metadata','title=Piccarella','-metadata','artist=Will Martin',str(ROOT/'lyrics_video.mp4')]
+    codec=subprocess.check_output(['ffprobe','-v','error','-select_streams','a:0','-show_entries','stream=codec_name','-of','default=noprint_wrappers=1:nokey=1',str(audio)],text=True).strip()
+    audio_args=['-c:a','copy'] if codec=='aac' else ['-c:a','aac','-b:a','256k','-ar','48000']
+    cmd=['ffmpeg','-y','-hide_banner','-loglevel','warning','-stats','-filter_complex_threads','1','-i',str(ROOT/'montage_background.mp4'),'-loop','1','-i',str(ROOT/'lyric_gradient.png'),'-i',str(audio),'-filter_complex',vf,'-map','[v]','-map','2:a:0','-t',str(duration),'-r','30','-c:v','libx264','-preset','fast','-crf','22','-threads','3','-pix_fmt','yuv420p']+audio_args+['-movflags','+faststart','-color_range','tv','-color_primaries','bt709','-color_trc','bt709','-colorspace','bt709','-metadata','title=Piccarella','-metadata','artist=Will Martin',str(ROOT/'lyrics_video.mp4')]
     run(cmd)
 
 def main():
