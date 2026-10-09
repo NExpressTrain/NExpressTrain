@@ -1,0 +1,459 @@
+[
+  {
+    "line_id": 1,
+    "text": "In tempi di grande oppressione,",
+    "font_size": 64,
+    "widths": [
+      1025.46875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 447.265625,
+    "bottom_margin": 108,
+    "display_start": 14.92,
+    "display_end": 17.45,
+    "needs_review": false
+  },
+  {
+    "line_id": 2,
+    "text": "Quando dobbiamo tenere un diario senza fine,",
+    "font_size": 64,
+    "widths": [
+      1494.36875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 212.81562499999995,
+    "bottom_margin": 108,
+    "display_start": 17.48,
+    "display_end": 20.81,
+    "needs_review": true
+  },
+  {
+    "line_id": 3,
+    "text": "Continueremo a guardare alla grande luce,",
+    "font_size": 64,
+    "widths": [
+      1381.546875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 269.2265625,
+    "bottom_margin": 108,
+    "display_start": 20.84,
+    "display_end": 23.529999999999998,
+    "needs_review": true
+  },
+  {
+    "line_id": 4,
+    "text": "La grande luce, Signor Piccarella!",
+    "font_size": 64,
+    "widths": [
+      1060.884375
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 429.55781249999995,
+    "bottom_margin": 108,
+    "display_start": 23.56,
+    "display_end": 26.98,
+    "needs_review": false
+  },
+  {
+    "line_id": 5,
+    "text": "Stiamo in lode del Grande Insegnante di Inglese! (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      827.48125,
+      1107.78125
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 406.109375,
+    "bottom_margin": 108,
+    "display_start": 29.4,
+    "display_end": 33.21,
+    "needs_review": true
+  },
+  {
+    "line_id": 6,
+    "text": "Esprimiamo profusamente il nostro desiderio di leggere racconti brevi a caso! (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      1456.771875,
+      1406.503125
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 231.61406250000005,
+    "bottom_margin": 108,
+    "display_start": 33.24,
+    "display_end": 40.26,
+    "needs_review": true
+  },
+  {
+    "line_id": 7,
+    "text": "Quando dobbiamo tenere un diario senza fine nella classe di Inglese, (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      1333.5375,
+      1251.88125
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 293.23125000000005,
+    "bottom_margin": 108,
+    "display_start": 40.68,
+    "display_end": 46.57,
+    "needs_review": true
+  },
+  {
+    "line_id": 8,
+    "text": "Guardiamo alla grande luce, Signor Piccarella!",
+    "font_size": 64,
+    "widths": [
+      1478.609375
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 220.6953125,
+    "bottom_margin": 108,
+    "display_start": 46.6,
+    "display_end": 50.18,
+    "needs_review": true
+  },
+  {
+    "line_id": 9,
+    "text": "Signor Piccarella! (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      943.471875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 488.2640625,
+    "bottom_margin": 108,
+    "display_start": 52.04,
+    "display_end": 54.81,
+    "needs_review": true
+  },
+  {
+    "line_id": 10,
+    "text": "Ci alziamo per lodare il tuo nome sacro!",
+    "font_size": 64,
+    "widths": [
+      1269.653125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 325.1734375,
+    "bottom_margin": 108,
+    "display_start": 54.84,
+    "display_end": 59.13,
+    "needs_review": true
+  },
+  {
+    "line_id": 11,
+    "text": "In tempi di grande oppressione,",
+    "font_size": 64,
+    "widths": [
+      1025.46875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 447.265625,
+    "bottom_margin": 108,
+    "display_start": 59.160000000000004,
+    "display_end": 62.25,
+    "needs_review": true
+  },
+  {
+    "line_id": 12,
+    "text": "Seguiamo la tua guida esplicita!",
+    "font_size": 64,
+    "widths": [
+      1026.378125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 446.8109375,
+    "bottom_margin": 108,
+    "display_start": 62.28,
+    "display_end": 65.94,
+    "needs_review": false
+  },
+  {
+    "line_id": 13,
+    "text": "Anche se dobbiamo leggere racconti brevi senza fine,",
+    "font_size": 64,
+    "widths": [
+      889.325,
+      803.34375
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 515.3375,
+    "bottom_margin": 108,
+    "display_start": 69.47999999999999,
+    "display_end": 74.34,
+    "needs_review": true
+  },
+  {
+    "line_id": 14,
+    "text": "Anche se dobbiamo scrivere per metà della lezione,",
+    "font_size": 64,
+    "widths": [
+      900.953125,
+      732.240625
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 509.5234375,
+    "bottom_margin": 108,
+    "display_start": 76.6,
+    "display_end": 81.7,
+    "needs_review": true
+  },
+  {
+    "line_id": 15,
+    "text": "Anche se i nostri voti possono scendere per lavori di bassa qualità,",
+    "font_size": 64,
+    "widths": [
+      958.2,
+      1159.128125
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 380.4359375,
+    "bottom_margin": 108,
+    "display_start": 82.67999999999999,
+    "display_end": 89.38,
+    "needs_review": false
+  },
+  {
+    "line_id": 16,
+    "text": "Guardiamo alla grande luce, Signor Piccarella!",
+    "font_size": 64,
+    "widths": [
+      1478.609375
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 220.6953125,
+    "bottom_margin": 108,
+    "display_start": 89.88,
+    "display_end": 95.22,
+    "needs_review": true
+  },
+  {
+    "line_id": 17,
+    "text": "Stiamo in lode del Grande Insegnante di Inglese! (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      827.48125,
+      1107.78125
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 406.109375,
+    "bottom_margin": 108,
+    "display_start": 97.72,
+    "display_end": 101.77,
+    "needs_review": true
+  },
+  {
+    "line_id": 18,
+    "text": "Esprimiamo profusamente il nostro desiderio di leggere racconti brevi a caso! (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      1456.771875,
+      1406.503125
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 231.61406250000005,
+    "bottom_margin": 108,
+    "display_start": 101.8,
+    "display_end": 108.64999999999999,
+    "needs_review": true
+  },
+  {
+    "line_id": 19,
+    "text": "Quando dobbiamo tenere un diario senza fine nella classe di Inglese, (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      1333.5375,
+      1251.88125
+    ],
+    "row_count": 2,
+    "minimum_side_margin": 293.23125000000005,
+    "bottom_margin": 108,
+    "display_start": 108.67999999999999,
+    "display_end": 114.25,
+    "needs_review": true
+  },
+  {
+    "line_id": 20,
+    "text": "Guardiamo alla grande luce, Signor Piccarella!",
+    "font_size": 64,
+    "widths": [
+      1478.609375
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 220.6953125,
+    "bottom_margin": 108,
+    "display_start": 114.28,
+    "display_end": 118.42,
+    "needs_review": true
+  },
+  {
+    "line_id": 21,
+    "text": "Signor Piccarella! (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      943.471875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 488.2640625,
+    "bottom_margin": 108,
+    "display_start": 119.88,
+    "display_end": 122.9,
+    "needs_review": true
+  },
+  {
+    "line_id": 22,
+    "text": "Ci alziamo per lodare il tuo nome sacro!",
+    "font_size": 64,
+    "widths": [
+      1269.653125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 325.1734375,
+    "bottom_margin": 108,
+    "display_start": 123.0,
+    "display_end": 127.06,
+    "needs_review": true
+  },
+  {
+    "line_id": 23,
+    "text": "In tempi di grande oppressione,",
+    "font_size": 64,
+    "widths": [
+      1025.46875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 447.265625,
+    "bottom_margin": 108,
+    "display_start": 127.16,
+    "display_end": 129.93,
+    "needs_review": true
+  },
+  {
+    "line_id": 24,
+    "text": "Seguiamo la tua guida esplicita!",
+    "font_size": 64,
+    "widths": [
+      1026.378125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 446.8109375,
+    "bottom_margin": 108,
+    "display_start": 129.96,
+    "display_end": 133.7,
+    "needs_review": false
+  },
+  {
+    "line_id": 25,
+    "text": "Signor Piccarella! (Piccarella!)",
+    "font_size": 64,
+    "widths": [
+      943.471875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 488.2640625,
+    "bottom_margin": 108,
+    "display_start": 153.64,
+    "display_end": 156.41,
+    "needs_review": false
+  },
+  {
+    "line_id": 26,
+    "text": "Ci alziamo per lodare il tuo nome sacro!",
+    "font_size": 64,
+    "widths": [
+      1269.653125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 325.1734375,
+    "bottom_margin": 108,
+    "display_start": 156.44,
+    "display_end": 159.94,
+    "needs_review": true
+  },
+  {
+    "line_id": 27,
+    "text": "In tempi di grande oppressione,",
+    "font_size": 64,
+    "widths": [
+      1025.46875
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 447.265625,
+    "bottom_margin": 108,
+    "display_start": 161.0,
+    "display_end": 163.53,
+    "needs_review": true
+  },
+  {
+    "line_id": 28,
+    "text": "Seguiamo la tua guida esplicita!",
+    "font_size": 64,
+    "widths": [
+      1026.378125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 446.8109375,
+    "bottom_margin": 108,
+    "display_start": 163.56,
+    "display_end": 167.21,
+    "needs_review": true
+  },
+  {
+    "line_id": 29,
+    "text": "Ehi!",
+    "font_size": 64,
+    "widths": [
+      116.603125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 901.6984375,
+    "bottom_margin": 108,
+    "display_start": 167.24,
+    "display_end": 168.39,
+    "needs_review": true
+  },
+  {
+    "line_id": 30,
+    "text": "Ehi!",
+    "font_size": 64,
+    "widths": [
+      116.603125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 901.6984375,
+    "bottom_margin": 108,
+    "display_start": 168.42,
+    "display_end": 171.74,
+    "needs_review": true
+  },
+  {
+    "line_id": 31,
+    "text": "Ehi!",
+    "font_size": 64,
+    "widths": [
+      116.603125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 901.6984375,
+    "bottom_margin": 108,
+    "display_start": 172.01999999999998,
+    "display_end": 173.3,
+    "needs_review": true
+  },
+  {
+    "line_id": 32,
+    "text": "Ehi!",
+    "font_size": 64,
+    "widths": [
+      116.603125
+    ],
+    "row_count": 1,
+    "minimum_side_margin": 901.6984375,
+    "bottom_margin": 108,
+    "display_start": 173.76,
+    "display_end": 175.14,
+    "needs_review": true
+  }
+]

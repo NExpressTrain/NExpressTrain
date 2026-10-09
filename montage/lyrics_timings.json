@@ -1,0 +1,2159 @@
+{
+  "title": "Piccarella",
+  "audio_duration": 184.0,
+  "method": "Viterbi CTC forced alignment with variable Italian SentencePiece segmentation; NVIDIA multilingual FastConformer CTC (int8); UVR MDX separated vocals used for analysis only",
+  "timing_resolution_seconds": 0.08,
+  "confidence_note": "Acoustic posterior scores are diagnostic, not calibrated probabilities of correctness. Singing, chorus voices and proper names can be uncertain. All lines require listening review before claiming frame-perfect synchronization.",
+  "lines": [
+    {
+      "id": 1,
+      "text": "In tempi di grande oppressione,",
+      "start": 15.04,
+      "end": 17.2,
+      "confidence": 0.813,
+      "needs_review": false,
+      "review_reasons": [],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "In",
+          "start": 15.04,
+          "end": 15.36,
+          "confidence": 0.774,
+          "peak_confidence": 0.813,
+          "reliable": true
+        },
+        {
+          "text": "tempi",
+          "start": 15.52,
+          "end": 15.84,
+          "confidence": 0.967,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "di",
+          "start": 15.92,
+          "end": 16.0,
+          "confidence": 0.995,
+          "peak_confidence": 0.995,
+          "reliable": true
+        },
+        {
+          "text": "grande",
+          "start": 16.16,
+          "end": 16.48,
+          "confidence": 0.978,
+          "peak_confidence": 0.998,
+          "reliable": true
+        },
+        {
+          "text": "oppressione,",
+          "start": 16.96,
+          "end": 17.2,
+          "confidence": 0.353,
+          "peak_confidence": 0.985,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 2,
+      "text": "Quando dobbiamo tenere un diario senza fine,",
+      "start": 17.6,
+      "end": 20.8,
+      "confidence": 0.66,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: senza"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Quando",
+          "start": 17.6,
+          "end": 17.92,
+          "confidence": 0.968,
+          "peak_confidence": 0.976,
+          "reliable": true
+        },
+        {
+          "text": "dobbiamo",
+          "start": 17.92,
+          "end": 18.4,
+          "confidence": 0.905,
+          "peak_confidence": 0.966,
+          "reliable": true
+        },
+        {
+          "text": "tenere",
+          "start": 18.4,
+          "end": 18.72,
+          "confidence": 0.73,
+          "peak_confidence": 0.781,
+          "reliable": true
+        },
+        {
+          "text": "un",
+          "start": 18.72,
+          "end": 18.88,
+          "confidence": 0.572,
+          "peak_confidence": 0.719,
+          "reliable": true
+        },
+        {
+          "text": "diario",
+          "start": 18.88,
+          "end": 19.28,
+          "confidence": 0.319,
+          "peak_confidence": 0.496,
+          "reliable": true
+        },
+        {
+          "text": "senza",
+          "start": 19.36,
+          "end": 19.6,
+          "confidence": 0.241,
+          "peak_confidence": 0.282,
+          "reliable": false
+        },
+        {
+          "text": "fine,",
+          "start": 20.56,
+          "end": 20.8,
+          "confidence": 0.885,
+          "peak_confidence": 0.928,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 3,
+      "text": "Continueremo a guardare alla grande luce,",
+      "start": 20.96,
+      "end": 23.28,
+      "confidence": 0.617,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: alla"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Continueremo",
+          "start": 20.96,
+          "end": 21.68,
+          "confidence": 0.935,
+          "peak_confidence": 0.998,
+          "reliable": true
+        },
+        {
+          "text": "a",
+          "start": 21.68,
+          "end": 21.84,
+          "confidence": 0.595,
+          "peak_confidence": 0.756,
+          "reliable": true
+        },
+        {
+          "text": "guardare",
+          "start": 21.92,
+          "end": 22.4,
+          "confidence": 0.932,
+          "peak_confidence": 0.976,
+          "reliable": true
+        },
+        {
+          "text": "alla",
+          "start": 22.48,
+          "end": 22.56,
+          "confidence": 0.004,
+          "peak_confidence": 0.004,
+          "reliable": false
+        },
+        {
+          "text": "grande",
+          "start": 22.72,
+          "end": 22.96,
+          "confidence": 0.561,
+          "peak_confidence": 0.656,
+          "reliable": true
+        },
+        {
+          "text": "luce,",
+          "start": 23.12,
+          "end": 23.28,
+          "confidence": 0.673,
+          "peak_confidence": 0.863,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 4,
+      "text": "La grande luce, Signor Piccarella!",
+      "start": 23.68,
+      "end": 26.48,
+      "confidence": 0.861,
+      "needs_review": false,
+      "review_reasons": [],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "La",
+          "start": 23.68,
+          "end": 23.76,
+          "confidence": 0.9,
+          "peak_confidence": 0.9,
+          "reliable": true
+        },
+        {
+          "text": "grande",
+          "start": 23.92,
+          "end": 24.24,
+          "confidence": 0.977,
+          "peak_confidence": 0.985,
+          "reliable": true
+        },
+        {
+          "text": "luce,",
+          "start": 24.4,
+          "end": 24.56,
+          "confidence": 0.967,
+          "peak_confidence": 0.996,
+          "reliable": true
+        },
+        {
+          "text": "Signor",
+          "start": 24.96,
+          "end": 25.44,
+          "confidence": 0.887,
+          "peak_confidence": 0.981,
+          "reliable": true
+        },
+        {
+          "text": "Piccarella!",
+          "start": 25.52,
+          "end": 26.48,
+          "confidence": 0.574,
+          "peak_confidence": 0.947,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 5,
+      "text": "Stiamo in lode del Grande Insegnante di Inglese! (Piccarella!)",
+      "start": 29.52,
+      "end": 32.8,
+      "confidence": 0.431,
+      "needs_review": true,
+      "review_reasons": [
+        "Several word boundaries require review",
+        "Uncertain words: in, lode, di, (Piccarella!)"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Stiamo",
+          "start": 29.52,
+          "end": 29.92,
+          "confidence": 0.428,
+          "peak_confidence": 0.952,
+          "reliable": true
+        },
+        {
+          "text": "in",
+          "start": 30.08,
+          "end": 30.16,
+          "confidence": 0.0,
+          "peak_confidence": 0.0,
+          "reliable": false
+        },
+        {
+          "text": "lode",
+          "start": 30.16,
+          "end": 30.48,
+          "confidence": 0.109,
+          "peak_confidence": 0.119,
+          "reliable": false
+        },
+        {
+          "text": "del",
+          "start": 30.48,
+          "end": 30.56,
+          "confidence": 0.898,
+          "peak_confidence": 0.898,
+          "reliable": true
+        },
+        {
+          "text": "Grande",
+          "start": 30.64,
+          "end": 30.96,
+          "confidence": 0.759,
+          "peak_confidence": 0.954,
+          "reliable": true
+        },
+        {
+          "text": "Insegnante",
+          "start": 30.96,
+          "end": 31.52,
+          "confidence": 0.849,
+          "peak_confidence": 0.984,
+          "reliable": true
+        },
+        {
+          "text": "di",
+          "start": 31.68,
+          "end": 31.76,
+          "confidence": 0.009,
+          "peak_confidence": 0.009,
+          "reliable": false
+        },
+        {
+          "text": "Inglese!",
+          "start": 31.84,
+          "end": 32.32,
+          "confidence": 0.813,
+          "peak_confidence": 0.99,
+          "reliable": true
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 32.72,
+          "end": 32.8,
+          "confidence": 0.012,
+          "peak_confidence": 0.042,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 6,
+      "text": "Esprimiamo profusamente il nostro desiderio di leggere racconti brevi a caso! (Piccarella!)",
+      "start": 33.36,
+      "end": 39.76,
+      "confidence": 0.88,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: (Piccarella!)"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Esprimiamo",
+          "start": 33.36,
+          "end": 34.32,
+          "confidence": 0.954,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "profusamente",
+          "start": 34.4,
+          "end": 35.04,
+          "confidence": 0.973,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "il",
+          "start": 35.28,
+          "end": 35.36,
+          "confidence": 0.996,
+          "peak_confidence": 0.996,
+          "reliable": true
+        },
+        {
+          "text": "nostro",
+          "start": 35.44,
+          "end": 35.76,
+          "confidence": 0.932,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "desiderio",
+          "start": 36.0,
+          "end": 36.8,
+          "confidence": 0.998,
+          "peak_confidence": 1.0,
+          "reliable": true
+        },
+        {
+          "text": "di",
+          "start": 37.04,
+          "end": 37.12,
+          "confidence": 0.996,
+          "peak_confidence": 0.996,
+          "reliable": true
+        },
+        {
+          "text": "leggere",
+          "start": 37.2,
+          "end": 37.68,
+          "confidence": 0.998,
+          "peak_confidence": 1.0,
+          "reliable": true
+        },
+        {
+          "text": "racconti",
+          "start": 37.92,
+          "end": 38.32,
+          "confidence": 0.998,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "brevi",
+          "start": 38.48,
+          "end": 38.8,
+          "confidence": 0.993,
+          "peak_confidence": 0.998,
+          "reliable": true
+        },
+        {
+          "text": "a",
+          "start": 38.88,
+          "end": 38.96,
+          "confidence": 0.974,
+          "peak_confidence": 0.974,
+          "reliable": true
+        },
+        {
+          "text": "caso!",
+          "start": 39.04,
+          "end": 39.28,
+          "confidence": 0.716,
+          "peak_confidence": 0.909,
+          "reliable": true
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 39.6,
+          "end": 39.76,
+          "confidence": 0.036,
+          "peak_confidence": 0.131,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 7,
+      "text": "Quando dobbiamo tenere un diario senza fine nella classe di Inglese, (Piccarella!)",
+      "start": 40.8,
+      "end": 46.08,
+      "confidence": 0.776,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: (Piccarella!)"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Quando",
+          "start": 40.8,
+          "end": 41.2,
+          "confidence": 0.436,
+          "peak_confidence": 0.565,
+          "reliable": true
+        },
+        {
+          "text": "dobbiamo",
+          "start": 41.2,
+          "end": 41.68,
+          "confidence": 0.843,
+          "peak_confidence": 0.934,
+          "reliable": true
+        },
+        {
+          "text": "tenere",
+          "start": 41.68,
+          "end": 42.0,
+          "confidence": 0.931,
+          "peak_confidence": 0.969,
+          "reliable": true
+        },
+        {
+          "text": "un",
+          "start": 42.0,
+          "end": 42.08,
+          "confidence": 0.968,
+          "peak_confidence": 0.968,
+          "reliable": true
+        },
+        {
+          "text": "diario",
+          "start": 42.16,
+          "end": 42.8,
+          "confidence": 0.83,
+          "peak_confidence": 0.986,
+          "reliable": true
+        },
+        {
+          "text": "senza",
+          "start": 42.88,
+          "end": 43.12,
+          "confidence": 0.982,
+          "peak_confidence": 0.987,
+          "reliable": true
+        },
+        {
+          "text": "fine",
+          "start": 43.2,
+          "end": 43.52,
+          "confidence": 0.992,
+          "peak_confidence": 0.993,
+          "reliable": true
+        },
+        {
+          "text": "nella",
+          "start": 43.68,
+          "end": 43.84,
+          "confidence": 0.958,
+          "peak_confidence": 0.981,
+          "reliable": true
+        },
+        {
+          "text": "classe",
+          "start": 43.84,
+          "end": 44.24,
+          "confidence": 0.994,
+          "peak_confidence": 0.996,
+          "reliable": true
+        },
+        {
+          "text": "di",
+          "start": 44.32,
+          "end": 44.56,
+          "confidence": 0.596,
+          "peak_confidence": 0.825,
+          "reliable": true
+        },
+        {
+          "text": "Inglese,",
+          "start": 44.56,
+          "end": 45.04,
+          "confidence": 0.777,
+          "peak_confidence": 0.993,
+          "reliable": true
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 45.36,
+          "end": 46.08,
+          "confidence": 0.005,
+          "peak_confidence": 0.01,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 8,
+      "text": "Guardiamo alla grande luce, Signor Piccarella!",
+      "start": 46.72,
+      "end": 49.68,
+      "confidence": 0.469,
+      "needs_review": true,
+      "review_reasons": [
+        "Several word boundaries require review",
+        "Uncertain words: alla, Signor, Piccarella!"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Guardiamo",
+          "start": 46.72,
+          "end": 46.96,
+          "confidence": 0.414,
+          "peak_confidence": 0.988,
+          "reliable": true
+        },
+        {
+          "text": "alla",
+          "start": 47.12,
+          "end": 47.2,
+          "confidence": 0.086,
+          "peak_confidence": 0.086,
+          "reliable": false
+        },
+        {
+          "text": "grande",
+          "start": 47.36,
+          "end": 47.6,
+          "confidence": 0.958,
+          "peak_confidence": 0.982,
+          "reliable": true
+        },
+        {
+          "text": "luce,",
+          "start": 47.84,
+          "end": 48.08,
+          "confidence": 0.96,
+          "peak_confidence": 0.978,
+          "reliable": true
+        },
+        {
+          "text": "Signor",
+          "start": 48.64,
+          "end": 49.2,
+          "confidence": 0.321,
+          "peak_confidence": 0.423,
+          "reliable": false
+        },
+        {
+          "text": "Piccarella!",
+          "start": 49.28,
+          "end": 49.68,
+          "confidence": 0.072,
+          "peak_confidence": 0.159,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 9,
+      "text": "Signor Piccarella! (Piccarella!)",
+      "start": 52.16,
+      "end": 54.56,
+      "confidence": 0.332,
+      "needs_review": true,
+      "review_reasons": [
+        "Several word boundaries require review",
+        "Uncertain words: Piccarella!, (Piccarella!)"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Signor",
+          "start": 52.16,
+          "end": 52.72,
+          "confidence": 0.63,
+          "peak_confidence": 0.854,
+          "reliable": true
+        },
+        {
+          "text": "Piccarella!",
+          "start": 52.8,
+          "end": 53.2,
+          "confidence": 0.203,
+          "peak_confidence": 0.653,
+          "reliable": false
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 54.0,
+          "end": 54.56,
+          "confidence": 0.163,
+          "peak_confidence": 0.454,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 10,
+      "text": "Ci alziamo per lodare il tuo nome sacro!",
+      "start": 54.96,
+      "end": 58.64,
+      "confidence": 0.388,
+      "needs_review": true,
+      "review_reasons": [
+        "Several word boundaries require review",
+        "Uncertain words: Ci, il, tuo"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Ci",
+          "start": 54.96,
+          "end": 55.04,
+          "confidence": 0.024,
+          "peak_confidence": 0.024,
+          "reliable": false
+        },
+        {
+          "text": "alziamo",
+          "start": 55.36,
+          "end": 55.76,
+          "confidence": 0.61,
+          "peak_confidence": 0.904,
+          "reliable": true
+        },
+        {
+          "text": "per",
+          "start": 55.84,
+          "end": 55.92,
+          "confidence": 0.623,
+          "peak_confidence": 0.623,
+          "reliable": true
+        },
+        {
+          "text": "lodare",
+          "start": 56.16,
+          "end": 56.72,
+          "confidence": 0.473,
+          "peak_confidence": 0.591,
+          "reliable": true
+        },
+        {
+          "text": "il",
+          "start": 56.96,
+          "end": 57.04,
+          "confidence": 0.172,
+          "peak_confidence": 0.172,
+          "reliable": false
+        },
+        {
+          "text": "tuo",
+          "start": 57.28,
+          "end": 57.6,
+          "confidence": 0.182,
+          "peak_confidence": 0.189,
+          "reliable": false
+        },
+        {
+          "text": "nome",
+          "start": 57.76,
+          "end": 58.0,
+          "confidence": 0.665,
+          "peak_confidence": 0.74,
+          "reliable": true
+        },
+        {
+          "text": "sacro!",
+          "start": 58.16,
+          "end": 58.64,
+          "confidence": 0.351,
+          "peak_confidence": 0.833,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 11,
+      "text": "In tempi di grande oppressione,",
+      "start": 59.28,
+      "end": 62.08,
+      "confidence": 0.429,
+      "needs_review": true,
+      "review_reasons": [
+        "Several word boundaries require review",
+        "Uncertain words: In, tempi"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "In",
+          "start": 59.28,
+          "end": 59.36,
+          "confidence": 0.012,
+          "peak_confidence": 0.012,
+          "reliable": false
+        },
+        {
+          "text": "tempi",
+          "start": 60.48,
+          "end": 60.64,
+          "confidence": 0.178,
+          "peak_confidence": 0.329,
+          "reliable": false
+        },
+        {
+          "text": "di",
+          "start": 60.8,
+          "end": 60.88,
+          "confidence": 0.503,
+          "peak_confidence": 0.503,
+          "reliable": true
+        },
+        {
+          "text": "grande",
+          "start": 61.04,
+          "end": 61.36,
+          "confidence": 0.749,
+          "peak_confidence": 0.924,
+          "reliable": true
+        },
+        {
+          "text": "oppressione,",
+          "start": 61.44,
+          "end": 62.08,
+          "confidence": 0.703,
+          "peak_confidence": 0.822,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 12,
+      "text": "Seguiamo la tua guida esplicita!",
+      "start": 62.4,
+      "end": 65.44,
+      "confidence": 0.769,
+      "needs_review": false,
+      "review_reasons": [],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Seguiamo",
+          "start": 62.4,
+          "end": 62.96,
+          "confidence": 0.769,
+          "peak_confidence": 0.964,
+          "reliable": true
+        },
+        {
+          "text": "la",
+          "start": 63.12,
+          "end": 63.2,
+          "confidence": 0.965,
+          "peak_confidence": 0.965,
+          "reliable": true
+        },
+        {
+          "text": "tua",
+          "start": 63.28,
+          "end": 63.52,
+          "confidence": 0.823,
+          "peak_confidence": 0.88,
+          "reliable": true
+        },
+        {
+          "text": "guida",
+          "start": 63.68,
+          "end": 64.08,
+          "confidence": 0.877,
+          "peak_confidence": 0.934,
+          "reliable": true
+        },
+        {
+          "text": "esplicita!",
+          "start": 64.32,
+          "end": 65.44,
+          "confidence": 0.411,
+          "peak_confidence": 0.621,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 13,
+      "text": "Anche se dobbiamo leggere racconti brevi senza fine,",
+      "start": 69.6,
+      "end": 73.84,
+      "confidence": 0.828,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: Anche"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Anche",
+          "start": 69.6,
+          "end": 69.68,
+          "confidence": 0.422,
+          "peak_confidence": 0.422,
+          "reliable": false
+        },
+        {
+          "text": "se",
+          "start": 70.16,
+          "end": 70.24,
+          "confidence": 0.972,
+          "peak_confidence": 0.972,
+          "reliable": true
+        },
+        {
+          "text": "dobbiamo",
+          "start": 70.56,
+          "end": 71.04,
+          "confidence": 0.985,
+          "peak_confidence": 0.996,
+          "reliable": true
+        },
+        {
+          "text": "leggere",
+          "start": 71.2,
+          "end": 71.68,
+          "confidence": 0.994,
+          "peak_confidence": 0.997,
+          "reliable": true
+        },
+        {
+          "text": "racconti",
+          "start": 72.0,
+          "end": 72.4,
+          "confidence": 0.979,
+          "peak_confidence": 0.988,
+          "reliable": true
+        },
+        {
+          "text": "brevi",
+          "start": 72.56,
+          "end": 72.96,
+          "confidence": 0.748,
+          "peak_confidence": 0.866,
+          "reliable": true
+        },
+        {
+          "text": "senza",
+          "start": 73.12,
+          "end": 73.44,
+          "confidence": 0.784,
+          "peak_confidence": 0.872,
+          "reliable": true
+        },
+        {
+          "text": "fine,",
+          "start": 73.6,
+          "end": 73.84,
+          "confidence": 0.739,
+          "peak_confidence": 0.869,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 14,
+      "text": "Anche se dobbiamo scrivere per metà della lezione,",
+      "start": 76.72,
+      "end": 81.2,
+      "confidence": 0.573,
+      "needs_review": true,
+      "review_reasons": [
+        "Several word boundaries require review",
+        "Uncertain words: metà, della, lezione,"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Anche",
+          "start": 76.72,
+          "end": 76.8,
+          "confidence": 0.774,
+          "peak_confidence": 0.774,
+          "reliable": true
+        },
+        {
+          "text": "se",
+          "start": 77.28,
+          "end": 77.36,
+          "confidence": 0.958,
+          "peak_confidence": 0.958,
+          "reliable": true
+        },
+        {
+          "text": "dobbiamo",
+          "start": 77.6,
+          "end": 78.16,
+          "confidence": 0.812,
+          "peak_confidence": 0.986,
+          "reliable": true
+        },
+        {
+          "text": "scrivere",
+          "start": 78.24,
+          "end": 78.8,
+          "confidence": 0.94,
+          "peak_confidence": 0.992,
+          "reliable": true
+        },
+        {
+          "text": "per",
+          "start": 79.04,
+          "end": 79.12,
+          "confidence": 0.624,
+          "peak_confidence": 0.624,
+          "reliable": true
+        },
+        {
+          "text": "metà",
+          "start": 79.2,
+          "end": 79.52,
+          "confidence": 0.411,
+          "peak_confidence": 0.425,
+          "reliable": false
+        },
+        {
+          "text": "della",
+          "start": 80.0,
+          "end": 80.08,
+          "confidence": 0.003,
+          "peak_confidence": 0.003,
+          "reliable": false
+        },
+        {
+          "text": "lezione,",
+          "start": 80.88,
+          "end": 81.2,
+          "confidence": 0.064,
+          "peak_confidence": 0.068,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 15,
+      "text": "Anche se i nostri voti possono scendere per lavori di bassa qualità,",
+      "start": 82.8,
+      "end": 88.88,
+      "confidence": 0.919,
+      "needs_review": false,
+      "review_reasons": [],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Anche",
+          "start": 82.8,
+          "end": 82.88,
+          "confidence": 0.772,
+          "peak_confidence": 0.772,
+          "reliable": true
+        },
+        {
+          "text": "se",
+          "start": 83.36,
+          "end": 83.44,
+          "confidence": 0.95,
+          "peak_confidence": 0.95,
+          "reliable": true
+        },
+        {
+          "text": "i",
+          "start": 83.6,
+          "end": 83.68,
+          "confidence": 0.975,
+          "peak_confidence": 0.975,
+          "reliable": true
+        },
+        {
+          "text": "nostri",
+          "start": 83.76,
+          "end": 84.16,
+          "confidence": 0.856,
+          "peak_confidence": 0.99,
+          "reliable": true
+        },
+        {
+          "text": "voti",
+          "start": 84.32,
+          "end": 84.64,
+          "confidence": 0.939,
+          "peak_confidence": 0.968,
+          "reliable": true
+        },
+        {
+          "text": "possono",
+          "start": 84.96,
+          "end": 85.36,
+          "confidence": 0.963,
+          "peak_confidence": 0.977,
+          "reliable": true
+        },
+        {
+          "text": "scendere",
+          "start": 85.52,
+          "end": 86.08,
+          "confidence": 0.961,
+          "peak_confidence": 0.992,
+          "reliable": true
+        },
+        {
+          "text": "per",
+          "start": 86.4,
+          "end": 86.48,
+          "confidence": 0.986,
+          "peak_confidence": 0.986,
+          "reliable": true
+        },
+        {
+          "text": "lavori",
+          "start": 86.72,
+          "end": 87.12,
+          "confidence": 0.863,
+          "peak_confidence": 0.996,
+          "reliable": true
+        },
+        {
+          "text": "di",
+          "start": 87.36,
+          "end": 87.44,
+          "confidence": 0.987,
+          "peak_confidence": 0.987,
+          "reliable": true
+        },
+        {
+          "text": "bassa",
+          "start": 87.6,
+          "end": 88.08,
+          "confidence": 0.827,
+          "peak_confidence": 0.989,
+          "reliable": true
+        },
+        {
+          "text": "qualità,",
+          "start": 88.32,
+          "end": 88.88,
+          "confidence": 0.954,
+          "peak_confidence": 0.964,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 16,
+      "text": "Guardiamo alla grande luce, Signor Piccarella!",
+      "start": 90.0,
+      "end": 94.72,
+      "confidence": 0.5,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: alla, Piccarella!"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Guardiamo",
+          "start": 90.0,
+          "end": 90.64,
+          "confidence": 0.82,
+          "peak_confidence": 0.96,
+          "reliable": true
+        },
+        {
+          "text": "alla",
+          "start": 90.8,
+          "end": 90.88,
+          "confidence": 0.014,
+          "peak_confidence": 0.014,
+          "reliable": false
+        },
+        {
+          "text": "grande",
+          "start": 91.12,
+          "end": 91.36,
+          "confidence": 0.832,
+          "peak_confidence": 0.889,
+          "reliable": true
+        },
+        {
+          "text": "luce,",
+          "start": 91.68,
+          "end": 92.0,
+          "confidence": 0.904,
+          "peak_confidence": 0.94,
+          "reliable": true
+        },
+        {
+          "text": "Signor",
+          "start": 93.6,
+          "end": 94.16,
+          "confidence": 0.402,
+          "peak_confidence": 0.629,
+          "reliable": true
+        },
+        {
+          "text": "Piccarella!",
+          "start": 94.48,
+          "end": 94.72,
+          "confidence": 0.028,
+          "peak_confidence": 0.1,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 17,
+      "text": "Stiamo in lode del Grande Insegnante di Inglese! (Piccarella!)",
+      "start": 97.84,
+      "end": 101.68,
+      "confidence": 0.068,
+      "needs_review": true,
+      "review_reasons": [
+        "Low acoustic alignment confidence in sung vocals",
+        "Several word boundaries require review",
+        "Uncertain words: Stiamo, in, lode, del, Grande, Insegnante, di, (Piccarella!)"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Stiamo",
+          "start": 97.84,
+          "end": 98.32,
+          "confidence": 0.051,
+          "peak_confidence": 0.127,
+          "reliable": false
+        },
+        {
+          "text": "in",
+          "start": 98.48,
+          "end": 98.56,
+          "confidence": 0.009,
+          "peak_confidence": 0.009,
+          "reliable": false
+        },
+        {
+          "text": "lode",
+          "start": 98.56,
+          "end": 98.64,
+          "confidence": 0.027,
+          "peak_confidence": 0.041,
+          "reliable": false
+        },
+        {
+          "text": "del",
+          "start": 98.88,
+          "end": 98.96,
+          "confidence": 0.106,
+          "peak_confidence": 0.106,
+          "reliable": false
+        },
+        {
+          "text": "Grande",
+          "start": 99.12,
+          "end": 99.36,
+          "confidence": 0.061,
+          "peak_confidence": 0.088,
+          "reliable": false
+        },
+        {
+          "text": "Insegnante",
+          "start": 99.52,
+          "end": 99.68,
+          "confidence": 0.034,
+          "peak_confidence": 0.084,
+          "reliable": false
+        },
+        {
+          "text": "di",
+          "start": 100.56,
+          "end": 100.64,
+          "confidence": 0.067,
+          "peak_confidence": 0.067,
+          "reliable": false
+        },
+        {
+          "text": "Inglese!",
+          "start": 100.88,
+          "end": 101.28,
+          "confidence": 0.261,
+          "peak_confidence": 0.464,
+          "reliable": true
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 101.28,
+          "end": 101.68,
+          "confidence": 0.0,
+          "peak_confidence": 0.001,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 18,
+      "text": "Esprimiamo profusamente il nostro desiderio di leggere racconti brevi a caso! (Piccarella!)",
+      "start": 101.92,
+      "end": 108.48,
+      "confidence": 0.876,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: (Piccarella!)"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Esprimiamo",
+          "start": 101.92,
+          "end": 102.8,
+          "confidence": 0.915,
+          "peak_confidence": 0.996,
+          "reliable": true
+        },
+        {
+          "text": "profusamente",
+          "start": 102.88,
+          "end": 103.52,
+          "confidence": 0.99,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "il",
+          "start": 103.68,
+          "end": 103.76,
+          "confidence": 0.999,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "nostro",
+          "start": 103.92,
+          "end": 104.24,
+          "confidence": 0.988,
+          "peak_confidence": 1.0,
+          "reliable": true
+        },
+        {
+          "text": "desiderio",
+          "start": 104.4,
+          "end": 105.12,
+          "confidence": 0.991,
+          "peak_confidence": 1.0,
+          "reliable": true
+        },
+        {
+          "text": "di",
+          "start": 105.36,
+          "end": 105.44,
+          "confidence": 0.997,
+          "peak_confidence": 0.997,
+          "reliable": true
+        },
+        {
+          "text": "leggere",
+          "start": 105.6,
+          "end": 106.0,
+          "confidence": 0.996,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "racconti",
+          "start": 106.32,
+          "end": 106.72,
+          "confidence": 0.993,
+          "peak_confidence": 0.998,
+          "reliable": true
+        },
+        {
+          "text": "brevi",
+          "start": 106.96,
+          "end": 107.28,
+          "confidence": 0.981,
+          "peak_confidence": 0.991,
+          "reliable": true
+        },
+        {
+          "text": "a",
+          "start": 107.44,
+          "end": 107.52,
+          "confidence": 0.919,
+          "peak_confidence": 0.919,
+          "reliable": true
+        },
+        {
+          "text": "caso!",
+          "start": 107.68,
+          "end": 107.92,
+          "confidence": 0.741,
+          "peak_confidence": 0.799,
+          "reliable": true
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 108.0,
+          "end": 108.48,
+          "confidence": 0.0,
+          "peak_confidence": 0.0,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 19,
+      "text": "Quando dobbiamo tenere un diario senza fine nella classe di Inglese, (Piccarella!)",
+      "start": 108.8,
+      "end": 114.4,
+      "confidence": 0.809,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: (Piccarella!)"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Quando",
+          "start": 108.8,
+          "end": 109.12,
+          "confidence": 0.96,
+          "peak_confidence": 0.974,
+          "reliable": true
+        },
+        {
+          "text": "dobbiamo",
+          "start": 109.2,
+          "end": 109.76,
+          "confidence": 0.996,
+          "peak_confidence": 0.999,
+          "reliable": true
+        },
+        {
+          "text": "tenere",
+          "start": 109.76,
+          "end": 110.16,
+          "confidence": 0.978,
+          "peak_confidence": 0.992,
+          "reliable": true
+        },
+        {
+          "text": "un",
+          "start": 110.16,
+          "end": 110.32,
+          "confidence": 0.805,
+          "peak_confidence": 0.979,
+          "reliable": true
+        },
+        {
+          "text": "diario",
+          "start": 110.64,
+          "end": 110.96,
+          "confidence": 0.488,
+          "peak_confidence": 0.983,
+          "reliable": true
+        },
+        {
+          "text": "senza",
+          "start": 111.12,
+          "end": 111.36,
+          "confidence": 0.988,
+          "peak_confidence": 0.994,
+          "reliable": true
+        },
+        {
+          "text": "fine",
+          "start": 111.44,
+          "end": 111.68,
+          "confidence": 0.994,
+          "peak_confidence": 0.997,
+          "reliable": true
+        },
+        {
+          "text": "nella",
+          "start": 111.84,
+          "end": 112.08,
+          "confidence": 0.954,
+          "peak_confidence": 0.984,
+          "reliable": true
+        },
+        {
+          "text": "classe",
+          "start": 112.08,
+          "end": 112.48,
+          "confidence": 0.992,
+          "peak_confidence": 0.993,
+          "reliable": true
+        },
+        {
+          "text": "di",
+          "start": 112.56,
+          "end": 112.88,
+          "confidence": 0.824,
+          "peak_confidence": 0.911,
+          "reliable": true
+        },
+        {
+          "text": "Inglese,",
+          "start": 112.96,
+          "end": 113.28,
+          "confidence": 0.734,
+          "peak_confidence": 0.997,
+          "reliable": true
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 113.36,
+          "end": 114.4,
+          "confidence": 0.0,
+          "peak_confidence": 0.0,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 20,
+      "text": "Guardiamo alla grande luce, Signor Piccarella!",
+      "start": 114.4,
+      "end": 117.92,
+      "confidence": 0.727,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: Piccarella!"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Guardiamo",
+          "start": 114.4,
+          "end": 115.12,
+          "confidence": 0.761,
+          "peak_confidence": 0.959,
+          "reliable": true
+        },
+        {
+          "text": "alla",
+          "start": 115.28,
+          "end": 115.36,
+          "confidence": 0.927,
+          "peak_confidence": 0.927,
+          "reliable": true
+        },
+        {
+          "text": "grande",
+          "start": 115.6,
+          "end": 115.84,
+          "confidence": 0.977,
+          "peak_confidence": 0.992,
+          "reliable": true
+        },
+        {
+          "text": "luce,",
+          "start": 116.0,
+          "end": 116.16,
+          "confidence": 0.934,
+          "peak_confidence": 0.956,
+          "reliable": true
+        },
+        {
+          "text": "Signor",
+          "start": 116.88,
+          "end": 117.36,
+          "confidence": 0.653,
+          "peak_confidence": 0.804,
+          "reliable": true
+        },
+        {
+          "text": "Piccarella!",
+          "start": 117.44,
+          "end": 117.92,
+          "confidence": 0.112,
+          "peak_confidence": 0.343,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 21,
+      "text": "Signor Piccarella! (Piccarella!)",
+      "start": 120.0,
+      "end": 122.4,
+      "confidence": 0.426,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: (Piccarella!)"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Signor",
+          "start": 120.0,
+          "end": 120.88,
+          "confidence": 0.774,
+          "peak_confidence": 0.982,
+          "reliable": true
+        },
+        {
+          "text": "Piccarella!",
+          "start": 120.96,
+          "end": 121.68,
+          "confidence": 0.276,
+          "peak_confidence": 0.533,
+          "reliable": true
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 121.92,
+          "end": 122.4,
+          "confidence": 0.227,
+          "peak_confidence": 0.67,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 22,
+      "text": "Ci alziamo per lodare il tuo nome sacro!",
+      "start": 123.12,
+      "end": 126.56,
+      "confidence": 0.614,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: Ci"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Ci",
+          "start": 123.12,
+          "end": 123.2,
+          "confidence": 0.001,
+          "peak_confidence": 0.001,
+          "reliable": false
+        },
+        {
+          "text": "alziamo",
+          "start": 123.36,
+          "end": 123.68,
+          "confidence": 0.482,
+          "peak_confidence": 0.972,
+          "reliable": true
+        },
+        {
+          "text": "per",
+          "start": 123.84,
+          "end": 123.92,
+          "confidence": 0.929,
+          "peak_confidence": 0.929,
+          "reliable": true
+        },
+        {
+          "text": "lodare",
+          "start": 124.16,
+          "end": 124.72,
+          "confidence": 0.539,
+          "peak_confidence": 0.586,
+          "reliable": true
+        },
+        {
+          "text": "il",
+          "start": 125.04,
+          "end": 125.12,
+          "confidence": 0.714,
+          "peak_confidence": 0.714,
+          "reliable": true
+        },
+        {
+          "text": "tuo",
+          "start": 125.28,
+          "end": 125.44,
+          "confidence": 0.44,
+          "peak_confidence": 0.716,
+          "reliable": true
+        },
+        {
+          "text": "nome",
+          "start": 125.6,
+          "end": 125.92,
+          "confidence": 0.962,
+          "peak_confidence": 0.986,
+          "reliable": true
+        },
+        {
+          "text": "sacro!",
+          "start": 126.08,
+          "end": 126.56,
+          "confidence": 0.843,
+          "peak_confidence": 0.971,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 23,
+      "text": "In tempi di grande oppressione,",
+      "start": 127.28,
+      "end": 129.84,
+      "confidence": 0.751,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: In"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "In",
+          "start": 127.28,
+          "end": 127.36,
+          "confidence": 0.072,
+          "peak_confidence": 0.072,
+          "reliable": false
+        },
+        {
+          "text": "tempi",
+          "start": 127.84,
+          "end": 128.24,
+          "confidence": 0.755,
+          "peak_confidence": 0.976,
+          "reliable": true
+        },
+        {
+          "text": "di",
+          "start": 128.4,
+          "end": 128.48,
+          "confidence": 0.972,
+          "peak_confidence": 0.972,
+          "reliable": true
+        },
+        {
+          "text": "grande",
+          "start": 128.72,
+          "end": 129.04,
+          "confidence": 0.984,
+          "peak_confidence": 0.989,
+          "reliable": true
+        },
+        {
+          "text": "oppressione,",
+          "start": 129.12,
+          "end": 129.84,
+          "confidence": 0.974,
+          "peak_confidence": 0.991,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 24,
+      "text": "Seguiamo la tua guida esplicita!",
+      "start": 130.08,
+      "end": 133.2,
+      "confidence": 0.748,
+      "needs_review": false,
+      "review_reasons": [],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Seguiamo",
+          "start": 130.08,
+          "end": 130.8,
+          "confidence": 0.45,
+          "peak_confidence": 0.847,
+          "reliable": true
+        },
+        {
+          "text": "la",
+          "start": 130.88,
+          "end": 130.96,
+          "confidence": 0.872,
+          "peak_confidence": 0.872,
+          "reliable": true
+        },
+        {
+          "text": "tua",
+          "start": 131.12,
+          "end": 131.28,
+          "confidence": 0.827,
+          "peak_confidence": 0.83,
+          "reliable": true
+        },
+        {
+          "text": "guida",
+          "start": 131.52,
+          "end": 131.92,
+          "confidence": 0.815,
+          "peak_confidence": 0.975,
+          "reliable": true
+        },
+        {
+          "text": "esplicita!",
+          "start": 132.08,
+          "end": 133.2,
+          "confidence": 0.776,
+          "peak_confidence": 0.866,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 25,
+      "text": "Signor Piccarella! (Piccarella!)",
+      "start": 153.76,
+      "end": 156.24,
+      "confidence": 0.525,
+      "needs_review": false,
+      "review_reasons": [],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Signor",
+          "start": 153.76,
+          "end": 154.4,
+          "confidence": 0.895,
+          "peak_confidence": 0.983,
+          "reliable": true
+        },
+        {
+          "text": "Piccarella!",
+          "start": 154.8,
+          "end": 155.52,
+          "confidence": 0.392,
+          "peak_confidence": 0.792,
+          "reliable": true
+        },
+        {
+          "text": "(Piccarella!)",
+          "start": 155.84,
+          "end": 156.24,
+          "confidence": 0.288,
+          "peak_confidence": 0.556,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 26,
+      "text": "Ci alziamo per lodare il tuo nome sacro!",
+      "start": 156.56,
+      "end": 159.44,
+      "confidence": 0.599,
+      "needs_review": true,
+      "review_reasons": [
+        "Uncertain words: Ci, sacro!"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Ci",
+          "start": 156.56,
+          "end": 156.64,
+          "confidence": 0.065,
+          "peak_confidence": 0.065,
+          "reliable": false
+        },
+        {
+          "text": "alziamo",
+          "start": 156.88,
+          "end": 157.36,
+          "confidence": 0.521,
+          "peak_confidence": 0.955,
+          "reliable": true
+        },
+        {
+          "text": "per",
+          "start": 157.44,
+          "end": 157.52,
+          "confidence": 0.916,
+          "peak_confidence": 0.916,
+          "reliable": true
+        },
+        {
+          "text": "lodare",
+          "start": 157.68,
+          "end": 158.16,
+          "confidence": 0.778,
+          "peak_confidence": 0.949,
+          "reliable": true
+        },
+        {
+          "text": "il",
+          "start": 158.48,
+          "end": 158.56,
+          "confidence": 0.789,
+          "peak_confidence": 0.789,
+          "reliable": true
+        },
+        {
+          "text": "tuo",
+          "start": 158.72,
+          "end": 158.96,
+          "confidence": 0.676,
+          "peak_confidence": 0.712,
+          "reliable": true
+        },
+        {
+          "text": "nome",
+          "start": 159.04,
+          "end": 159.28,
+          "confidence": 0.835,
+          "peak_confidence": 0.9,
+          "reliable": true
+        },
+        {
+          "text": "sacro!",
+          "start": 159.36,
+          "end": 159.44,
+          "confidence": 0.212,
+          "peak_confidence": 0.62,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 27,
+      "text": "In tempi di grande oppressione,",
+      "start": 161.12,
+      "end": 163.44,
+      "confidence": 0.368,
+      "needs_review": true,
+      "review_reasons": [
+        "Several word boundaries require review",
+        "Uncertain words: In, tempi, di"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "In",
+          "start": 161.12,
+          "end": 161.2,
+          "confidence": 0.02,
+          "peak_confidence": 0.02,
+          "reliable": false
+        },
+        {
+          "text": "tempi",
+          "start": 161.36,
+          "end": 161.84,
+          "confidence": 0.131,
+          "peak_confidence": 0.249,
+          "reliable": false
+        },
+        {
+          "text": "di",
+          "start": 162.0,
+          "end": 162.08,
+          "confidence": 0.033,
+          "peak_confidence": 0.033,
+          "reliable": false
+        },
+        {
+          "text": "grande",
+          "start": 162.24,
+          "end": 162.56,
+          "confidence": 0.886,
+          "peak_confidence": 0.918,
+          "reliable": true
+        },
+        {
+          "text": "oppressione,",
+          "start": 162.64,
+          "end": 163.44,
+          "confidence": 0.77,
+          "peak_confidence": 0.975,
+          "reliable": true
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment"
+    },
+    {
+      "id": 28,
+      "text": "Seguiamo la tua guida esplicita!",
+      "start": 163.68,
+      "end": 166.08,
+      "confidence": 0.572,
+      "needs_review": true,
+      "review_reasons": [
+        "Several word boundaries require review",
+        "Uncertain words: guida, esplicita!",
+        "Final held syllable and transition to outro need listening review"
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Seguiamo",
+          "start": 163.68,
+          "end": 164.24,
+          "confidence": 0.783,
+          "peak_confidence": 0.985,
+          "reliable": true
+        },
+        {
+          "text": "la",
+          "start": 164.4,
+          "end": 164.48,
+          "confidence": 0.975,
+          "peak_confidence": 0.975,
+          "reliable": true
+        },
+        {
+          "text": "tua",
+          "start": 164.56,
+          "end": 164.8,
+          "confidence": 0.828,
+          "peak_confidence": 0.899,
+          "reliable": true
+        },
+        {
+          "text": "guida",
+          "start": 165.12,
+          "end": 165.44,
+          "confidence": 0.189,
+          "peak_confidence": 0.473,
+          "reliable": false
+        },
+        {
+          "text": "esplicita!",
+          "start": 165.6,
+          "end": 166.08,
+          "confidence": 0.085,
+          "peak_confidence": 0.27,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "CTC acoustic forced alignment",
+      "display_end_hint": 167.05
+    },
+    {
+      "id": 29,
+      "text": "Ehi!",
+      "start": 167.36,
+      "end": 168.3,
+      "confidence": 0,
+      "needs_review": true,
+      "review_reasons": [
+        "CTC alignment failed for this outro call. Whisper did not verify its lexical identity. These boundaries are acoustic candidates only and require manual listening review."
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Ehi!",
+          "start": 167.36,
+          "end": 168.3,
+          "confidence": 0,
+          "peak_confidence": 0,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "Provisional vocal-envelope landmarks; lexical identity not verified",
+      "original_ctc_alignment": {
+        "start": 166.48,
+        "end": 166.72
+      }
+    },
+    {
+      "id": 30,
+      "text": "Ehi!",
+      "start": 168.54,
+      "end": 171.24,
+      "confidence": 0,
+      "needs_review": true,
+      "review_reasons": [
+        "CTC alignment failed for this outro call. Whisper did not verify its lexical identity. These boundaries are acoustic candidates only and require manual listening review."
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Ehi!",
+          "start": 168.54,
+          "end": 171.24,
+          "confidence": 0,
+          "peak_confidence": 0,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "Provisional vocal-envelope landmarks; lexical identity not verified",
+      "original_ctc_alignment": {
+        "start": 166.72,
+        "end": 166.96
+      }
+    },
+    {
+      "id": 31,
+      "text": "Ehi!",
+      "start": 172.14,
+      "end": 172.8,
+      "confidence": 0,
+      "needs_review": true,
+      "review_reasons": [
+        "CTC alignment failed for this outro call. Whisper did not verify its lexical identity. These boundaries are acoustic candidates only and require manual listening review."
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Ehi!",
+          "start": 172.14,
+          "end": 172.8,
+          "confidence": 0,
+          "peak_confidence": 0,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "Provisional vocal-envelope landmarks; lexical identity not verified",
+      "original_ctc_alignment": {
+        "start": 167.12,
+        "end": 167.2
+      }
+    },
+    {
+      "id": 32,
+      "text": "Ehi!",
+      "start": 173.88,
+      "end": 174.64,
+      "confidence": 0,
+      "needs_review": true,
+      "review_reasons": [
+        "CTC alignment failed for this outro call. Whisper did not verify its lexical identity. These boundaries are acoustic candidates only and require manual listening review."
+      ],
+      "karaoke": false,
+      "words": [
+        {
+          "text": "Ehi!",
+          "start": 173.88,
+          "end": 174.64,
+          "confidence": 0,
+          "peak_confidence": 0,
+          "reliable": false
+        }
+      ],
+      "partial_karaoke": false,
+      "timing_method": "Provisional vocal-envelope landmarks; lexical identity not verified",
+      "original_ctc_alignment": {
+        "start": 167.2,
+        "end": 167.76
+      }
+    }
+  ],
+  "audio_source_duration_mp3_container": 184.032,
+  "duration_note": "184.000 s is the decoded playable audio duration. MP3 container duration includes 0.032 s of codec delay/padding. Video is 5520 frames at 30 fps; no original audio samples are trimmed or retimed.",
+  "background_note": "Dated Bronx Science photo montage, original photos retained in full with blurred fill and subtle motion.",
+  "manual_review_required": true,
+  "artist": "Will Martin",
+  "display_mode": "One complete lyric sentence at a time; no word highlighting"
+}

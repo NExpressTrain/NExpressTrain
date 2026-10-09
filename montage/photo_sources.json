@@ -1,0 +1,241 @@
+{
+  "date_window": {
+    "start": "2024-10-08",
+    "end": "2026-10-08"
+  },
+  "researched_at": "2026-10-09T01:30:00Z",
+  "note": "Sources verified through web research. Photo bytes still require authorized network access. Capture dates will be checked against EXIF when available; publication dates are identified separately.",
+  "photos": [
+    {
+      "id": "research_1",
+      "caption": "Bronx Science Student Research Celebration",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1015581&id=1",
+      "publication_date": "2026-05-01",
+      "event_date": "2026-04-27",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/5/1/58243107/dsc_6363.jpg",
+      "local_path": "photos/research_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "research_2",
+      "caption": "Bronx Science Student Research Celebration",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1015581&id=1",
+      "publication_date": "2026-05-01",
+      "event_date": "2026-04-27",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/5/1/58243107/dsc_6401.jpg",
+      "local_path": "photos/research_2.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "research_3",
+      "caption": "Bronx Science Student Research Celebration",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1015581&id=1",
+      "publication_date": "2026-05-01",
+      "event_date": "2026-04-27",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/5/1/58243107/dsc_6433.jpg",
+      "local_path": "photos/research_3.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "research_4",
+      "caption": "Bronx Science Student Research Celebration",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1015581&id=1",
+      "publication_date": "2026-05-01",
+      "event_date": "2026-04-27",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/5/1/58243107/dsc_6686.jpg",
+      "local_path": "photos/research_4.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "research_5",
+      "caption": "Bronx Science Student Research Celebration",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1015581&id=1",
+      "publication_date": "2026-05-01",
+      "event_date": "2026-04-27",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/5/1/58243107/dsc_6822.jpg",
+      "local_path": "photos/research_5.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "research_6",
+      "caption": "Bronx Science Student Research Celebration",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1015581&id=1",
+      "publication_date": "2026-05-01",
+      "event_date": "2026-04-27",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/5/1/58243107/dsc_6888.jpg",
+      "local_path": "photos/research_6.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "fencing_1",
+      "caption": "Boys fencing versus Hunter High School",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1034203&id=30",
+      "publication_date": "2026-10-07",
+      "event_date": "2026-10-06",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/10/7/35759172/captain_huson_russell_getting_ready_for_a_fencing_bout.jpg",
+      "local_path": "photos/fencing_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "visit_1",
+      "caption": "Visitors touring Bronx Science",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1031875&id=1",
+      "publication_date": "2026-09-24",
+      "event_date": "2026-09-22",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/9/24/55760147/img_3971.jpg",
+      "local_path": "photos/visit_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "keio_1",
+      "caption": "Keio Shonan Fujisawa school visit",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1018475&id=1",
+      "publication_date": "2026-05-22",
+      "event_date": "2026-05-22",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/5/22/47762924/img_3804.jpg",
+      "local_path": "photos/keio_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "genes_1",
+      "caption": "Genes in Space 2026 national winners",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1029919&id=1",
+      "publication_date": "2026-09-11",
+      "event_date": null,
+      "date_basis": "Official publication date; exact camera capture date not supplied",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/9/11/42713817/genes_in_space_national_winners_2026.jpg",
+      "local_path": "photos/genes_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "marty_1",
+      "caption": "Cross country at the PSAL Marty Lewis meet",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1034188&id=30",
+      "publication_date": "2026-10-07",
+      "event_date": "2026-10-03",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/10/7/34790020/26263__md_img_5439_jpg_91770688-7153-4b99-b702-da9e4a067a93.jpg",
+      "local_path": "photos/marty_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "marty_2",
+      "caption": "Cross country at the PSAL Marty Lewis meet",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1034188&id=30",
+      "publication_date": "2026-10-07",
+      "event_date": "2026-10-03",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/10/7/34790020/26263__md_img_5474_jpg_7e7b4dac-102e-45c2-8827-5804a1307a23.jpg",
+      "local_path": "photos/marty_2.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "marty_3",
+      "caption": "Cross country at the PSAL Marty Lewis meet",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1034188&id=30",
+      "publication_date": "2026-10-07",
+      "event_date": "2026-10-03",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/10/7/34790020/26263__md_img_6679_jpg_e4fc2b21-eaea-4835-88fd-b92b51e3c36a.jpg",
+      "local_path": "photos/marty_3.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "marty_4",
+      "caption": "Cross country at the PSAL Marty Lewis meet",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1034188&id=30",
+      "publication_date": "2026-10-07",
+      "event_date": "2026-10-03",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/10/7/34790020/26263_md_2026-10-03_09_39_32_818.jpg",
+      "local_path": "photos/marty_4.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "marty_5",
+      "caption": "Cross country at the PSAL Marty Lewis meet",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1034188&id=30",
+      "publication_date": "2026-10-07",
+      "event_date": "2026-10-03",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/10/7/34790020/img-20261006-wa0001.jpg",
+      "local_path": "photos/marty_5.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "suffern_1",
+      "caption": "Bronx Science cross country at the Suffern Invitational",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1031776&id=30",
+      "publication_date": "2026-09-23",
+      "event_date": null,
+      "date_basis": "Official publication date; exact camera capture date not supplied",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/9/23/52693857/68778.jpg",
+      "local_path": "photos/suffern_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "suffern_2",
+      "caption": "Bronx Science cross country at the Suffern Invitational",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1031776&id=30",
+      "publication_date": "2026-09-23",
+      "event_date": null,
+      "date_basis": "Official publication date; exact camera capture date not supplied",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/9/23/52693857/68892.jpg",
+      "local_path": "photos/suffern_2.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "suffern_3",
+      "caption": "Bronx Science cross country at the Suffern Invitational",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=1031776&id=30",
+      "publication_date": "2026-09-23",
+      "event_date": null,
+      "date_basis": "Official publication date; exact camera capture date not supplied",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2026/9/23/52693857/68901.jpg",
+      "local_path": "photos/suffern_3.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "harlem_1",
+      "caption": "Neighborhood Charter School visiting Bronx Science",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=949007&id=1",
+      "publication_date": "2025-01-22",
+      "event_date": "2025-01-15",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2025/1/22/56898090/img_0177.jpg",
+      "local_path": "photos/harlem_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "manne_1",
+      "caption": "IMSA and Bronx Science at the Manne Institute",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=948751&id=1",
+      "publication_date": "2025-01-21",
+      "event_date": "2025-01-14",
+      "date_basis": "Event date stated on official source page",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2025/1/21/54071686/imsa.jpg",
+      "local_path": "photos/manne_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    },
+    {
+      "id": "regeneron_1",
+      "caption": "Bronx Science Regeneron scholars, Class of 2025",
+      "source_page": "https://www.bxscience.edu/apps/news/show_news.jsp?REC_ID=946743&id=1",
+      "publication_date": "2025-01-08",
+      "event_date": null,
+      "date_basis": "Official publication date; exact camera capture date not supplied",
+      "image_url": "https://www.bxscience.edu/ourpages/auto/2025/1/8/51123217/all%20twelve%20regeneron%20scholars%201-13-2025.jpg",
+      "local_path": "photos/regeneron_1.jpg",
+      "credit": "The Bronx High School of Science; individual photographer not identified on source page"
+    }
+  ]
+}

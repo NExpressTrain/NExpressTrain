@@ -1,0 +1,53 @@
+﻿[Script Info]
+Title: Piccarella — Will Martin
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyric,Noto Sans,64,&H00FFFFFF,&H00FFFFFF,&H60000000,&H70000000,-1,0,0,0,100,100,0.3,0,1,1.2,2.5,2,170,170,105,1
+Style: Title,Noto Sans,94,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,4,0,1,1,3,5,170,170,100,1
+Style: Credit,Noto Sans,30,&H00FFFFFF,&H00FFFFFF,&H70000000,&H70000000,0,0,0,0,100,100,2,0,1,1,2,5,100,100,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:01.00,0:00:12.90,Title,,0,0,0,,{\an5\pos(960,474)\fad(1000,1000)\fscx98\fscy98\t(0,1200,\fscx100\fscy100)}PICCARELLA
+Dialogue: 3,0:00:02.00,0:00:12.90,Credit,,0,0,0,,{\an5\pos(960,584)\fad(1000,1000)}Will Martin
+Dialogue: 3,0:00:14.92,0:00:17.45,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}In tempi di grande oppressione,
+Dialogue: 3,0:00:17.48,0:00:20.81,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Quando dobbiamo tenere un diario senza fine,
+Dialogue: 3,0:00:20.84,0:00:23.53,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Continueremo a guardare alla grande luce,
+Dialogue: 3,0:00:23.56,0:00:26.98,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}La grande luce, Signor Piccarella!
+Dialogue: 3,0:00:29.40,0:00:33.21,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Stiamo in lode del Grande\NInsegnante di Inglese! (Piccarella!)
+Dialogue: 3,0:00:33.24,0:00:40.26,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Esprimiamo profusamente il nostro desiderio\Ndi leggere racconti brevi a caso! (Piccarella!)
+Dialogue: 3,0:00:40.68,0:00:46.57,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Quando dobbiamo tenere un diario senza\Nfine nella classe di Inglese, (Piccarella!)
+Dialogue: 3,0:00:46.60,0:00:50.18,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Guardiamo alla grande luce, Signor Piccarella!
+Dialogue: 3,0:00:52.04,0:00:54.81,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Signor Piccarella! (Piccarella!)
+Dialogue: 3,0:00:54.84,0:00:59.13,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Ci alziamo per lodare il tuo nome sacro!
+Dialogue: 3,0:00:59.16,0:01:02.25,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}In tempi di grande oppressione,
+Dialogue: 3,0:01:02.28,0:01:05.94,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Seguiamo la tua guida esplicita!
+Dialogue: 3,0:01:09.48,0:01:14.34,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Anche se dobbiamo leggere\Nracconti brevi senza fine,
+Dialogue: 3,0:01:16.60,0:01:21.70,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Anche se dobbiamo scrivere\Nper metà della lezione,
+Dialogue: 3,0:01:22.68,0:01:29.38,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Anche se i nostri voti possono\Nscendere per lavori di bassa qualità,
+Dialogue: 3,0:01:29.88,0:01:35.22,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Guardiamo alla grande luce, Signor Piccarella!
+Dialogue: 3,0:01:37.72,0:01:41.77,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Stiamo in lode del Grande\NInsegnante di Inglese! (Piccarella!)
+Dialogue: 3,0:01:41.80,0:01:48.65,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Esprimiamo profusamente il nostro desiderio\Ndi leggere racconti brevi a caso! (Piccarella!)
+Dialogue: 3,0:01:48.68,0:01:54.25,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Quando dobbiamo tenere un diario senza\Nfine nella classe di Inglese, (Piccarella!)
+Dialogue: 3,0:01:54.28,0:01:58.42,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Guardiamo alla grande luce, Signor Piccarella!
+Dialogue: 3,0:01:59.88,0:02:02.90,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Signor Piccarella! (Piccarella!)
+Dialogue: 3,0:02:03.00,0:02:07.06,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Ci alziamo per lodare il tuo nome sacro!
+Dialogue: 3,0:02:07.16,0:02:09.93,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}In tempi di grande oppressione,
+Dialogue: 3,0:02:09.96,0:02:13.70,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Seguiamo la tua guida esplicita!
+Dialogue: 3,0:02:33.64,0:02:36.41,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Signor Piccarella! (Piccarella!)
+Dialogue: 3,0:02:36.44,0:02:39.94,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Ci alziamo per lodare il tuo nome sacro!
+Dialogue: 3,0:02:41.00,0:02:43.53,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}In tempi di grande oppressione,
+Dialogue: 3,0:02:43.56,0:02:47.21,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Seguiamo la tua guida esplicita!
+Dialogue: 3,0:02:47.24,0:02:48.39,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Ehi!
+Dialogue: 3,0:02:48.42,0:02:51.74,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Ehi!
+Dialogue: 3,0:02:52.02,0:02:53.30,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Ehi!
+Dialogue: 3,0:02:53.76,0:02:55.14,Lyric,,0,0,0,,{\an2\pos(960,972)\fs64\fad(120,180)\fscx98\fscy98\t(0,200,\fscx100\fscy100)}Ehi!
+Dialogue: 3,0:02:58.50,0:03:04.00,Title,,0,0,0,,{\an5\pos(960,460)\fs72\fad(1000,1200)}PICCARELLA
+Dialogue: 3,0:02:59.00,0:03:04.00,Credit,,0,0,0,,{\an5\pos(960,550)\fad(1000,1200)}Will Martin
